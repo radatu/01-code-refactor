@@ -53,8 +53,8 @@ p {
 .hero {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    margin-bottom: 25px; 
+    background-image: url("../images/digital-marketing-meeting.jpg"); alt "seated chin-level view white-surfaced boardroom table water glasses laptops on table. seated young grey-tee-shirted man stubble and dark-rimmed glasses. white-bloused dark-curly-haired woman looks on. man stands to right looking down at paper. backview of man passing paper forward."
     background-size: cover;
     background-position: center;
 }
